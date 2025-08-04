@@ -1,10 +1,74 @@
 {
   "notes": [
-    { "id": 1, "content": "custom-hooks are awesome!" },
-    { "id": 2, "content": "best feature ever <3" }
+    {
+      "id": 1,
+      "content": "custom-hooks are awesome!"
+    },
+    {
+      "id": 2,
+      "content": "best feature ever <3"
+    },
+    {
+      "content": "test",
+      "id": 3
+    },
+    {
+      "content": "test 2",
+      "id": 4
+    },
+    {
+      "content": "sfmdlfksdlfks",
+      "id": 5
+    },
+    {
+      "content": "sfmdlfksdl",
+      "id": 6
+    },
+    {
+      "content": "encore un test",
+      "id": 7
+    }
   ],
   "persons": [
-    { "id": 1, "name": "mluukkai", "number": "040-5483923" },
-    { "id": 2, "name": "hellas", "number": "012-123123" }
+    {
+      "id": 1,
+      "name": "mluukkai",
+      "number": "040-5483923"
+    },
+    {
+      "id": 2,
+      "name": "hellas",
+      "number": "012-123123"
+    },
+    {
+      "name": "didier",
+      "number": "403948586",
+      "id": 3
+    },
+    {
+      "name": "marcel",
+      "number": "56737485",
+      "id": 4
+    },
+    {
+      "name": "test",
+      "number": "test",
+      "id": 5
+    },
+    {
+      "name": "lkmlmljlkj",
+      "number": "jmlmlkjm",
+      "id": 6
+    },
+    {
+      "name": "lk",
+      "number": "jmlml",
+      "id": 7
+    },
+    {
+      "name": "fsmfskml",
+      "number": "mlsflfdkjd",
+      "id": 8
+    }
   ]
 }
